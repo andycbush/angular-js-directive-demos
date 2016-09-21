@@ -1,0 +1,23 @@
+{
+  "name": "angular-js-directive-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycbush/angular-js-directive-demos.git"
+  },
+  "author": "Andrew Bush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andycbush/angular-js-directive-demos/issues"
+  },
+  "homepage": "https://github.com/andycbush/angular-js-directive-demos#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
